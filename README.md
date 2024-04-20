@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 • pkg update && pkg upgrade -y && pkg install -y python got
-
+git clone https://github.com/A-KTO-Tbl/INSIDE && cd INSIDE && pip install -r Core/requirements.txt
 <!---
 klimat01/klimat01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
